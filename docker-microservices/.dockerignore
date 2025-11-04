@@ -1,7 +1,7 @@
-__pycache__/
-node_modules/
+node_modules
+dist
+build
 .git
 .env
+secrets
 *.log
-Dockerfile~
-secrets/
