@@ -1,0 +1,10 @@
+# Ignore Python, Node, and Docker build artifacts
+__pycache__/
+node_modules/
+.env
+*.pyc
+*.log
+secrets/
+dist/
+build/
+Dockerfile~
